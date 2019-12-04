@@ -1,24 +1,10 @@
 # Media Client Portal
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+P.S. Taylor Media developed the Media Client Portal to eliminate the financial overhead and end-user confusion of working with different tools for every aspect of their media business. They sent photography and videography (media) clients to DocuSign for contracts, QuickBooks for invoicing and payments, and Pixieset or Vimeo for media deliverables; however, each of these tools came with a subscription cost and meant sending users to yet another website or email rather than delivering a single, cohesive user journey from start to finish. Manually keeping up with all of these tools also meant that the business spent more time maintaining the logistics and less time innovating to create a better experience for media clients.
 
-Things you may want to cover:
+The Media Client Portal solves these problems by:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- giving media clients a single, cohesive user experience from start to finish
+- reducing financial overhead for media business owners by eliminating the need for some of the subscription-based services mentioned above
+- empowering media business owners to quickly and easily communicate with their clients
+- opening the door to better collaboration with other media business owners
